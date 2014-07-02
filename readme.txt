@@ -1,6 +1,5 @@
 === Sports-Scheduler ===
-Contributors: hlashbrooke
-Donate link: http://www.hughlashbrooke.com/donate
+Contributors: Blue Team
 Tags: wordpress, plugin, template
 Requires at least: 3.8
 Tested up to: 3.8.1
@@ -33,11 +32,5 @@ Installing "Sports-Scheduler" can be done either by searching for "Sports-Schedu
 == Changelog ==
 
 = 1.0 =
-* 2012-12-13
 * Initial release
 
-== Upgrade Notice ==
-
-= 1.0 =
-* 2012-12-13
-* Initial release
